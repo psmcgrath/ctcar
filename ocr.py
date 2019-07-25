@@ -112,5 +112,5 @@ def process_stream(input_stream=None):
             break
 
     # When everything done, release the capture
-    cap.release()
-    cv2.destroyAllWindows()
+    # cap.release()
+    # cv2.destroyAllWindows()
